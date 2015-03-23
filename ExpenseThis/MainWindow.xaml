@@ -1,0 +1,6 @@
+﻿<NavigationWindow x:Class="ExpenseThis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ExpenseThis" Height="500" Width="350" Source="ExpenseThisHome.xaml" >
+
+</NavigationWindow>

@@ -1,0 +1,16 @@
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseReportPage.baml
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThisHome.baml
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\MainWindow.baml
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\App.baml
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseReportPage.g.cs
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThisHome.g.cs
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\App.g.cs
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThis_MarkupCompile.cache
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThis.g.resources
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThis.Properties.Resources.resources
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThis.csproj.GenerateResource.Cache
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\bin\Debug\ExpenseThis.exe
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\bin\Debug\ExpenseThis.pdb
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThis.exe
+C:\Users\cnewell\Documents\Visual Studio 2010\Projects\ExpenseThis\ExpenseThis\obj\x86\Debug\ExpenseThis.pdb
